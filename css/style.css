@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    color: rgb(216, 10, 243);
+    font-size: 125%;
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+ } 
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(245, 3, 172);
+    border-bottom: 2px solid rgb(245, 3, 172);
+}
+
+main {
+    width: 1500px;
+    margin: auto auto;
+    border: 10px solid rgb(245, 3, 172);
+    padding: 20px;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+    font-size: 125%;
+}
+
+figcaption {
+    text-align: justify;
+    text-indent: 50px;
+    font-size: 130%;
+}
+ul {
+    font-size: 125%;
+}
+
+footer {
+    font-size: 140%;
+    background-color:  rgb(245, 3, 172);
+    text-align: center;
+}
+
+ol {
+    font-size: 130%;
+    width: 400px;
+    margin: auto auto;
+}
+
+h4 {
+    font-size: 30px;
+    width: 500px;
+    margin: auto auto;
+}
